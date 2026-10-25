@@ -4,4 +4,4 @@ title: Smula
 ---
 # Smula
 
-[Personvernerklæring](personvern) · [Privacy Policy](privacy)
+[Hjelp og kontakt](hjelp) · [Personvernerklæring](personvern) · [Privacy Policy](privacy)
