@@ -1,0 +1,4 @@
+title: Smula
+markdown: kramdown
+# Only the pages below are published; nothing else from the app lives in this repository.
+exclude: [README.md]
